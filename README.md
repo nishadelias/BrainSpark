@@ -1,3 +1,5 @@
+Please put your own API key in App.js and change the model to the best model available to you.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
